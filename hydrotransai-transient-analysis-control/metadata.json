@@ -1,0 +1,5 @@
+{
+  "name": "HydroTransAI - Transient Analysis & Control",
+  "description": "A robust real-time transient analysis and control dashboard for Hydropower and Pumped Storage schemes, powered by AI for predictive maintenance and anomaly detection.",
+  "requestFramePermissions": []
+}

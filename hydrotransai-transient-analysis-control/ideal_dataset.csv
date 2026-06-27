@@ -1,0 +1,6 @@
+grossHead,penstockLength,penstockDiameter,roughness,waveSpeed,flowVelocity,gravity,guideVaneClosureTime,suddenLoadChangeTime
+500,2000,3.5,0.015,1200,5.5,9.81,15,0.1
+450,1800,3.2,0.014,1150,5.0,9.81,12,0.1
+600,2500,4.0,0.012,1300,6.0,9.81,20,0.2
+300,1000,2.5,0.018,1100,4.5,9.81,10,0.1
+150,500,1.8,0.020,1000,3.5,9.81,8,0.1
